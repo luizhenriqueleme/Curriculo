@@ -8,7 +8,7 @@ Atuar com Análise e Desenvolvimento de Software e liderança técnica.
 <li>Excelentes conhecimentos em Métodos Ágeis como Scrum, XP, Lean e TDD.</li>
 <li>Excelentes conhecimentos em diferentes linguagens de programação e tecnologias incluindo Java, .Net, Android, tecnologias web e SQL.</li>
 </ul>
-###Formação Acadêmica
+### Formação Acadêmica
 <table>
   <tr>
     <td>2012 - 2015</td>
@@ -31,7 +31,7 @@ Atuar com Análise e Desenvolvimento de Software e liderança técnica.
     </td>
   </tr>  
 </table>
-###Formação Complementar
+### Formação Complementar
 <table>
   <tr>
     <td>2015</td>
@@ -158,7 +158,7 @@ Atuar com Análise e Desenvolvimento de Software e liderança técnica.
     </td>
   </tr>  
 </table>
-###Atuação Profissional
+### Atuação Profissional
 <table>
   <tr>
     <td>Período</td>
