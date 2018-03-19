@@ -33,6 +33,14 @@ Atuar com Análise e Desenvolvimento de Software e liderança técnica.
   </tr>  
 </table>
 
+### Certificações
+<table>
+  <tr>
+    <td>Certified Scrum Master 03/2018 - 03/2020</td>
+    <td>Scrum Alliance</td>
+  </tr>
+</table>
+
 ### Formação Complementar
 <table>
   <tr>
@@ -274,7 +282,8 @@ Desenvolvimento do sistema APESM para o MIS Prime do Banco Bradesco S.A.
 </td>
   </tr>  
 </table>
-###Conhecimentos
+
+### Conhecimentos
 <table>
   <tr>
     <td>Engenharia de Software</td>
