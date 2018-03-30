@@ -1,7 +1,7 @@
 # Luiz Henrique Leme
-<b>LinkedIn:</b> [https://www.linkedin.com/in/luizleme](https://www.linkedin.com/in/luizleme) <br/>
-<b>GitHub:<b/> [https://github.com/luizhenriqueleme](https://github.com/luizhenriqueleme) <br/> e [https://github.com/lheme](https://github.com/lheme)<br/>
-<b>Site:<b/> [http://lheme.com.br/](http://lheme.com.br/)
+<b>LinkedIn:</b> [https://www.linkedin.com/in/luizleme](https://www.linkedin.com/in/luizleme) </br>
+<b>GitHub:</b> [https://github.com/luizhenriqueleme](https://github.com/luizhenriqueleme) e [https://github.com/lheme](https://github.com/lheme)<br/>
+<b>Site:</b> [http://lheme.com.br/](http://lheme.com.br/)
 ## Objetivo
 Atuar com Análise e Desenvolvimento de Software e liderança técnica.
 ### Resumo
